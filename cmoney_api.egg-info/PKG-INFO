@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: cmoney-api
+Version: 1.0.0
+Summary: 一個股票大富翁的操作API
+Home-page: https://github.com/KnowScratcher/CMoney-api
+Download-URL: https://github.com/KnowScratcher/CMoney-api
+Author: Know Scratcher
+Author-email: yianlee2008@gmail.com
+License: AGPL-3.0
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# CMoney API
+## 一個股票大富翁的操作API
+正在編寫
